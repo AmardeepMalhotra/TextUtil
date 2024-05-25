@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+  border: 1.5px solid rgb(119, 117, 117);
+  height: 279px;
+  width: 270px;
+  margin: 13% 38%;
+}
+.App_color_container{
+  padding-top: 280px;
+}
+#input{
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
+  width: 247px;
+  outline: none;
+  border-color: brown;
+}
+
+
+.Mode{
+  cursor: pointer;
+}
